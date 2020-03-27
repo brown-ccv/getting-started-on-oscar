@@ -1,0 +1,9 @@
+repo:             getting-started-on-oscar
+site_name:        getting-started-on-oscar
+authors:      
+  - name: Helen Kershaw
+    github_user: hkershaw-brown
+site_description: An introduction to Oscar, Brown’s research computing cluster
+docs_url:         https://github.com/brown-ccv/getting-started-on-oscar
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
+© 2020 GitHub, Inc.

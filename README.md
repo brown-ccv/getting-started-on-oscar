@@ -6,7 +6,7 @@ Here are the workshop materials:
 
 [slides](https://drive.google.com/file/d/1gKPSrDwSqZ1DnKJLCE-MuPjsqVpvqxUn/view?usp=sharing)
 
-[cheat sheet](https://drive.google.com/file/d/1gKPSrDwSqZ1DnKJLCE-MuPjsqVpvqxUn/view?usp=sharing)
+[cheat sheet](https://drive.google.com/file/d/1HVD4yv_0J8D6Dbvdqx6staW4kTzzp5P3/view?usp=sharing)
 
 We offer this workshop live about once a month. For the CCV events schedule, check: [events.brown.edu/ccv](https://events.brown.edu/ccv/view/all)
 

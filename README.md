@@ -4,7 +4,7 @@ An introduction to Oscar, Brown’s research computing cluster, for new users. P
 
 Here are the workshop materials:
 
-[slides](https://docs.google.com/presentation/d/1LXPyFr0lGyZtG0moL7nEucVwSX5CRhD7Lj6B5ccfYD4/edit?usp=sharing)
+[slides](https://docs.google.com/presentation/d/1QsV97bau-FB0zcfmx_A9ZwSeo8BAHEw7QhmusfDNobc/edit?usp=sharing)
 
 [exercises](https://docs.google.com/presentation/d/1Fx_UDhvTvIIP1UneZkNngC_mcG28ofybM6iVkwEeVKw/edit?usp=sharing)
 
